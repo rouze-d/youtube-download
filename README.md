@@ -10,6 +10,6 @@ sudo apt install youtube-dl
 
 usage:<br>
 ```
-bash youtucdown.sh
+bash youtubedownload.sh
 ```
 input full youtube channel (ex: https://www.youtube.com/channel/namechannel/videos) and press Enter.

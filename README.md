@@ -5,7 +5,12 @@ Youtucdown is simple tool for download all videos on youtube channel in HD.<br>
 need:<br>
 ```
 sudo gem install lolcat
-sudo apt install youtube-dl
+```
+
+install youtube-dl latest version
+```
+sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+sudo chmod a+rx /usr/local/bin/youtube-dl
 ```
 
 usage:<br>

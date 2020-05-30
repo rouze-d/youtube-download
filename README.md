@@ -1,6 +1,6 @@
 YOUTUCDOWN : SIMPLE YOUTUBE VIDEOS DOWNLOADER<br>
 
-Youtucdown is simple tool for download all videos on youtube channel in HD.<br>
+Youtucdown is simple tool for download all videos on youtube channel in SD or HD.<br>
 
 need:<br>
 ```
